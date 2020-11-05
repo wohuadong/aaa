@@ -3,7 +3,6 @@ public class aa {
         System.out.println("hello world");
         System.out.println(123);
         System.out.println(345);
-System.out.println(678);
     }
 }
 
